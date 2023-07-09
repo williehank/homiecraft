@@ -1,0 +1,13 @@
+name = "Death Finder"
+filename = "DeathFinder-v4.1.2-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0b9755bb24bfef512476b00ae87734ba551fc52c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4029554
+project-id = 327108
