@@ -1,0 +1,13 @@
+name = "Croptopia's Chocolaterie"
+filename = "croptopia-chocolaterie-1.2-1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/46YyW3iY/versions/1.2.0/croptopia-chocolaterie-1.2-1.19.jar"
+hash-format = "sha1"
+hash = "39662f74a3e67c5af4d8159ac0e1a28b8971db0c"
+
+[update]
+[update.modrinth]
+mod-id = "46YyW3iY"
+version = "VVTsaoMp"

@@ -1,13 +1,13 @@
 name = "Tool Stats"
-filename = "ToolStats-Fabric-1.19.2-12.1.4.jar"
-side = "both"
+filename = "ToolStats-Fabric-1.19.4-14.1.5.jar"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/vuGFx44e/versions/cDggcLSK/ToolStats-Fabric-1.19.4-14.1.5.jar"
 hash-format = "sha1"
-hash = "31359b1cf674bbc0dc2aca9fc1c066ae307f4c18"
-mode = "metadata:curseforge"
+hash = "15a0c4340da0b273c19148da4e17105cfade6011"
 
 [update]
-[update.curseforge]
-file-id = 4584153
-project-id = 377109
+[update.modrinth]
+mod-id = "vuGFx44e"
+version = "cDggcLSK"
