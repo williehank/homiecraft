@@ -488,6 +488,11 @@ hash = "c95b82d06d8c016d063359e098f73f94b55f08bb86cc96848dbd6f43968fb458"
 metafile = true
 
 [[files]]
+file = "mods/phosphor.pw.toml"
+hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "eb82b4b7d3bb20ac69cdac19263345a86c5c10e7d5b35bc54ceb08bff3c143eb"
 metafile = true
@@ -495,6 +500,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "05723068a1745bc41a87562915fa04582934fde82e61c64ccffec0e66731a0c8"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
 metafile = true
 
 [[files]]
