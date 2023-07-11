@@ -1,13 +1,13 @@
 name = "Bountiful (Fabric)"
-filename = "Bountiful-6.0.0-beta.3+1.19.4-fabric.jar"
+filename = "BountifulFabric-4.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7a82c91b0458303c16423784b21364010937274e"
+hash = "3fab434b7de803e429ef36a30ee5c2498574959a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4465360
+file-id = 3937777
 project-id = 521673
