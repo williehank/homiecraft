@@ -319,6 +319,11 @@ hash = "acd9476ac98a405edb48e5affa6805d9cfc70f02ed624a5146e14e86fcc98b23"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "33d8e4f2b5e3546f8dd4df0aadcc374b2b1e811f456bdea741dc53b94ac22f11"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "bd28a7c914104487e9f8887c43cf0adb8234cbe83742c96b3cce7eebe99a46cf"
 metafile = true
@@ -341,6 +346,11 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "cdfbb6b7cd0f3205e6ba9f77f9a16aff7ebb4c4afc275264e86edd8cef2a9423"
+metafile = true
+
+[[files]]
+file = "mods/create-chunkloading.pw.toml"
+hash = "cb5ddf0131a246d5f49ef7ca54b0e2d6c3f408d08cf56c55fe46a8a57c34e706"
 metafile = true
 
 [[files]]
