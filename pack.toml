@@ -1,6 +1,6 @@
 name = "Homiecraft"
 author = "williehank"
-version = "alpha7"
+version = "alpha8"
 description = "# Homiecraft\n\nA modpack designed to be an easy intro to modded Minecraft. Centered around the excellent Create mod with  additional decoration and world gen mods keeps everyone engaged. Whether tinkering with machines, building expansive cities or exploring brand new biomes and dungeons. \n\n## Disclaimer\n\nThis mod pack is currently in **alpha**. The mod list is not fully solidified yet and mods may be added or removed between versions.\n"
 pack-format = "packwiz:1.1.0"
 
