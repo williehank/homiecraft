@@ -515,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "21ae5782c5657fbdc90aa42f3d1cfe76168fe107d66f207ec210dc505c096f7b"
+hash = "1adc20bca3065adc7f3b1de1576c59dea261803ab860c975956c67b09d3f9cdb"
 metafile = true
 
 [[files]]
@@ -530,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "afecb4bb14c427f869a92c57581dc714cb04d3b7f66e7b17f86cde5cac4f1217"
+hash = "d1c7c4f3c2e8b707fdf78fdc12b8af34b5cffffec7eec1b8e6b0402ee409c79d"
 metafile = true
 
 [[files]]
