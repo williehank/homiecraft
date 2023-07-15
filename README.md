@@ -21,7 +21,7 @@ packwiz cf add create-fabric
 
 ### Export the pack
 
-This will download all mod jars to the `/mods` folder and create an `.mrpack` file. This file can be imported into the lanucher of your choice.
+This will download all mod jars and create an `.mrpack` file. This file can be imported into the lanucher of your choice.
 
 ```bash
 packwiz mr export
