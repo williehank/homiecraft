@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
+hash = "17311c8148c846b880718d5368efdc7eb31e54ee4c0ab0f6e3fe466ea8af3a3d"
 metafile = true
 
 [[files]]
@@ -555,5 +555,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "38596d87a9e3a8415ae67995664b9add0d88e2674484ac863785658ef808f753"
+hash = "eb49dcbbb0cf351278fc6068c9a7450f0feb755ff876569295b418f0c9a72e12"
 metafile = true
