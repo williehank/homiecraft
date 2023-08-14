@@ -504,6 +504,11 @@ hash = "9f6b7e463b81fcf49da659565fab49015fb371b457cdbb05f3443032014edb3a"
 metafile = true
 
 [[files]]
+file = "mods/megane.pw.toml"
+hash = "eb9c70b9322add21520da2948a0d8be4f4d856857bab35e430822bee1b7a9117"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
