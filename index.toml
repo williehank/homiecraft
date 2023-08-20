@@ -354,8 +354,18 @@ hash = "cb5ddf0131a246d5f49ef7ca54b0e2d6c3f408d08cf56c55fe46a8a57c34e706"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "62e9839eec5185985f705ff962b6d098a60ec06b2856799adb8db27dd224f9de"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "1458e4909039fdd41aeb1d7cc7c82fa6def77a48b29ab45f99a9248e05f1e8e1"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "4b601ae686b8d86d31427c574c218d40123fab84600d9f56c49febe1ffb8ce58"
 metafile = true
 
 [[files]]
@@ -491,6 +501,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
 hash = "9f6b7e463b81fcf49da659565fab49015fb371b457cdbb05f3443032014edb3a"
+metafile = true
+
+[[files]]
+file = "mods/megane.pw.toml"
+hash = "eb9c70b9322add21520da2948a0d8be4f4d856857bab35e430822bee1b7a9117"
 metafile = true
 
 [[files]]
