@@ -389,6 +389,11 @@ hash = "06118184bb0ec6bfd407aa120fa28fce9031ddedab3c710a315b161fa1d1a6b1"
 metafile = true
 
 [[files]]
+file = "mods/discord4fabric.pw.toml"
+hash = "251dc5b300f7bfe3d609c2bc693988cb079727d572e17fb6129a1ae3517daf69"
+metafile = true
+
+[[files]]
 file = "mods/epic-knights-shields-armor-and-weapons.pw.toml"
 hash = "aa2ba24336c95600379a026bb0214f30b2b62cc902ab49aca31a45fcb3581cff"
 metafile = true
